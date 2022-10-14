@@ -1,0 +1,15 @@
+C:\Users\alvar\OneDrive\Escritorio\Laboratorio\bin\Debug\net6.0\Laboratorio.exe
+C:\Users\alvar\OneDrive\Escritorio\Laboratorio\bin\Debug\net6.0\Laboratorio.deps.json
+C:\Users\alvar\OneDrive\Escritorio\Laboratorio\bin\Debug\net6.0\Laboratorio.runtimeconfig.json
+C:\Users\alvar\OneDrive\Escritorio\Laboratorio\bin\Debug\net6.0\Laboratorio.dll
+C:\Users\alvar\OneDrive\Escritorio\Laboratorio\bin\Debug\net6.0\Laboratorio.pdb
+C:\Users\alvar\OneDrive\Escritorio\Laboratorio\obj\Debug\net6.0\Laboratorio.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Escritorio\Laboratorio\obj\Debug\net6.0\Laboratorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Escritorio\Laboratorio\obj\Debug\net6.0\Laboratorio.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Laboratorio\obj\Debug\net6.0\Laboratorio.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Escritorio\Laboratorio\obj\Debug\net6.0\Laboratorio.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Laboratorio\obj\Debug\net6.0\Laboratorio.dll
+C:\Users\alvar\OneDrive\Escritorio\Laboratorio\obj\Debug\net6.0\refint\Laboratorio.dll
+C:\Users\alvar\OneDrive\Escritorio\Laboratorio\obj\Debug\net6.0\Laboratorio.pdb
+C:\Users\alvar\OneDrive\Escritorio\Laboratorio\obj\Debug\net6.0\Laboratorio.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Escritorio\Laboratorio\obj\Debug\net6.0\ref\Laboratorio.dll
